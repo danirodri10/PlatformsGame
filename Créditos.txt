@@ -1,0 +1,7 @@
+Sprites Pixel Adventure 1: https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360
+Sprites Pixel Adventure 2: https://assetstore.unity.com/packages/2d/characters/pixel-adventure-2-155418
+Botones: https://assetstore.unity.com/packages/2d/gui/icons/simple-button-set-01-153979
+Sprites de vidas: https://assetstore.unity.com/packages/tools/gui/simple-heart-health-system-120676
+Música y sonidos: https://mega.nz/file/dT4A1KgQ#9KDEIlepRcld9hv5nFic6TFugNjmMUJFGcllIBcro0E
+NOTA: se ha seguido como fuente de idea el tutorial de Luis Canary "Juego de plataformas 2D/Unity"
+Repo en GitHub: https://github.com/danirodri10/Proyecto_Plataformas

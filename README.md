@@ -1,2 +1,1 @@
-# PlatformsGame
-Indie Platform Game made whit Unity
+# Proyecto_Plataformas
